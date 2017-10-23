@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Stephanos Solutions
 header-img: img/home-bg.png
 email: stephanos@goldmail.etsu.edu
 copyright_name: dkStephanos
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Web Development: A Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dkStephanos
