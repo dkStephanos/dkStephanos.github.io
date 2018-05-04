@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Custom Ranking Algorithm in React/Rails with Redux/YahooSportsAPI, Pt. 2"
-date:       2018-05-04 20:16:43 +0000
+date:       2018-05-04 16:16:44 -0400
 permalink:  custom_ranking_algorithm_in_react_rails_with_redux_yahoosportsapi_pt_2
 ---
 
@@ -69,7 +69,7 @@ That is not enough though, we have more filters to play with! Next let's add som
 
 We are now filtering out small forwards and centers from our rankings. Remember, this doesn't just mean that we aren't showing those players, but that we are actually ranking the remaining players against JUST each other. Meaning if we were to filter out everyone but point guards, we would be left with a list of point guards ranked against only other point guards. This is helpful for certain reasons, like, say you need to draft a center, and don't care how a center compares to a small forward, because they should, by definition, be good at different things. Keeping that in mind, here are our top eight players after the position filters:
 
-![](https://i.imgur.com/cbkAEz5.png)
+![](https://i.imgur.com/2ylN0V7.png)
 
 Guard dominance! Removing anyone with small forward or center eligibility leaves us with mostly guards. When ranked against each other, there are a few things to note. One, Westbrook is back! Two, Harden is now the number one ranked player, because even without points or triple doubles, his excellent efficiency and assists make him dominant. Lastly, Kyrie appears in our top eight for the first time, which is notable, because he is the first player currently injured to do so. So let's add another filter and remove any player currently injured.
 
