@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Creating a Sinatra CRUD App"
-date:       2017-11-30 20:48:47 +0000
+date:       2017-11-30 15:48:48 -0500
 permalink:  creating_a_sinatra_crud_app
 ---
 
-![](https://cdn.pixabay.com/photo/2017/04/25/05/45/basketball-2258651_960_720.jpg)
+![](https://upload.wikimedia.org/wikipedia/en/2/2c/Sinatralogo.png)
 
 **Fantasy Team Organizer**
 
