@@ -5,6 +5,7 @@ date:       2018-04-28 15:59:46 -0400
 permalink:  custom_ranking_algorithm_in_react_rails_with_redux_yahoosportsapi
 ---
 
+![](https://pbs.twimg.com/profile_images/719644031144210432/w3IT_JOM_400x400.jpg)
 # What is Punting?
 
 In the world of fantasy basketball, there is one particularly dominant strategy, punting. Punting, you might ask? Isn't that something you do in football, not basketball? Well, aren't you the clever one. It is true, punting the ball mid basketball game is frowned upon, and will usually get you ejected. (See Tracy McGrady)
